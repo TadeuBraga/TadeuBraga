@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @TadeuBraga
+- 🇧🇷 I’m a Brazilian Software Developer
+- 💻 I’m also passionate about new technologies and frameworks
+- 🔗 Reach me through Linkedin: https://www.linkedin.com/in/tadeu-braga/
